@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "0f2c10e454d0cb03330fd8ca8df2eff1"
+build_time: [1598889752, 990955000]
+inputs:
+  "/Users/haruna/Documents/iOSdev/messagingapp/messagingapp/ViewController.swift": [1598885884, 500837857]
+  "/Users/haruna/Documents/iOSdev/messagingapp/messagingapp/AppDelegate.swift": [1598342551, 687816214]
+  "/Users/haruna/Documents/iOSdev/messagingapp/messagingapp/SceneDelegate.swift": [1598337586, 924421607]
+  "/Users/haruna/Documents/iOSdev/messagingapp/messagingapp/LoginViewController.swift": [1598889752, 657887585]
+  "/Users/haruna/Documents/iOSdev/messagingapp/messagingapp/ComposeViewController.swift": [1598866255, 825652944]

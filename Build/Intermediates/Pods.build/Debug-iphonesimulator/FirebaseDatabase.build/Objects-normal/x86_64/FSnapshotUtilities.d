@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FSnapshotUtilities.m \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FSnapshotUtilities.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Api/Private/FTypedefs_Private.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/Utilities/FPath.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Constants/FConstants.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/FMaxNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FChildrenNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FTypedefs.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FImmutableSortedDictionary.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/FNamedNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FCompoundWrite.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FEmptyNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Snapshot/FLeafNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FUtilities.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FParsedUrl.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Core/FRepoInfo.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Utilities/FValidation.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/Public/FirebaseDatabase/FIRDataEventType.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FLLRBValueNode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseDatabase/FirebaseDatabase/Sources/third_party/FImmutableSortedDictionary/FImmutableSortedDictionary/FLLRBNode.h

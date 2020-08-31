@@ -1,0 +1,52 @@
+dependencies: \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsVersion.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromises.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Wrap.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Validate.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Timeout.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Then.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Testing.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Retry.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Reduce.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Recover.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Race.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Do.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Delay.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Catch.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Await.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Async.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Any.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Always.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromiseError.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Products/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+All.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h

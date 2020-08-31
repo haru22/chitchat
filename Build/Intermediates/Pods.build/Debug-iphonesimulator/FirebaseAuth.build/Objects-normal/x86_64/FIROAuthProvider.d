@@ -1,0 +1,44 @@
+dependencies: \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/OAuth/FIROAuthProvider.m \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FirebaseCoreInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Build/Intermediates/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponent.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentContainer.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRComponentType.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLibrary.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRDependency.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIRLogger.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseCore/Sources/Private/FIROptionsInternal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthGlobalWorkQueue.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/Interop/Auth/Public/FIRAuthInterop.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/OAuth/FIROAuthCredential_Internal.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthErrorUtils.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthInternalErrors.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthWebUtils.h \
+  /Users/haruna/Documents/iOSdev/messagingapp/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthURLPresenter.h
